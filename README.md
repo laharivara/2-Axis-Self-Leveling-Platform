@@ -25,5 +25,5 @@ Future Improvements
 Components
  Component - Quantity 
  Arduino Uno - 1 
- MPU6500 - 1 
+ MPU60500 - 1 
  Servo Motor - 2 
