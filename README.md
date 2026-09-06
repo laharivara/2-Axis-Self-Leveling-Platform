@@ -1,7 +1,7 @@
 # 2-Axis-Self-Leveling-Platform
 A two-axis self-leveling platform built using an Arduino Uno, MPU6500 IMU, and two servo motors.
 
-How It Works
+How It Works : 
 The MPU6500 measures the platform's acceleration along
 three axes. The Arduino uses these measurements to calculate
 roll and pitch.
