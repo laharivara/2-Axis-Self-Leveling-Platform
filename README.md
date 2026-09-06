@@ -27,4 +27,4 @@ Components
  Arduino Uno - 1 
  MPU60500 - 1 
  Servo Motor - 2 
-![2-Axis-Self-Leveling-Platform](platform.jpg)
+![2-Axis-Self-Leveling-Platform](image.jpeg)
